@@ -61,7 +61,10 @@ active {
 	background-color: #E69B3A;
 	}
 
-li {display: block;
+li {
+	display: block;
+	text-align: center;
+	list-style-type: none;
 	}
 
 li a:hover:not(.active) {
@@ -73,13 +76,15 @@ ul{
 	text-align: center;
     list-style-type: none;
     position: relative;
-	text-decoration: none;
-	padding: .2.8%;
+	padding: 1px 0 1px 0;
+	margin: 0;	
 	background-color: #27221F;
 	}
 
 .logo {
    position: relative;
+   padding-bottom: 1px;
+   padding-top: 1px;
 	}
 
 
