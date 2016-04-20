@@ -74,9 +74,10 @@ li a:hover:not(.active) {
 
 ul{
 	text-align: center;
+	vertical-align: central;
     list-style-type: none;
     position: relative;
-	padding: 1px 0 1px 0;
+	padding: 2px 0 1px 0;
 	margin: 0;	
 	background-color: #27221F;
 	}
