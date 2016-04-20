@@ -83,7 +83,7 @@ ul{
 
 .logo {
    position: relative;
-   padding-bottom: 1px;
+   padding-bottom: 3px;
    padding-top: 1px;
 	}
 
@@ -169,8 +169,9 @@ img {
 	}
 
 .map  {
-   text-align:center;
    position: relative;
+   padding-top:40px;
+   padding-bottom:20px 
 	}
 
 p   {
