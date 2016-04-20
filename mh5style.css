@@ -55,10 +55,13 @@ a   {
 	text-align: center;
     right: 400px;
 	color: #27221F;
+	
 }
-
 active {
 	background-color: #E69B3A;
+	}
+
+li {display: block;
 	}
 
 li a:hover:not(.active) {
@@ -68,7 +71,7 @@ li a:hover:not(.active) {
 
 ul{
 	text-align: center;
-   list-style-type: none;
+    list-style-type: none;
     position: relative;
 	text-decoration: none;
 	padding: .2.8%;
