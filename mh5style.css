@@ -68,10 +68,10 @@ li {
 	}
 
 li a:hover:not(.active) {
-	color: #aad9d9;
+	color: #86c8c9;
 	}
 	
-a:hover:not(.active) {
+a:hover:not(.active){
 	color: #3d8889;
 	}
 
