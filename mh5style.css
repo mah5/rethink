@@ -51,7 +51,6 @@ a   {
     position:relative;
 	display: inline-block;
 	text-decoration: none;
-	/*---padding-right: 0:-125px; 0; -125px;---*/
 	text-align: center;
     right: 400px;
 	color: #27221F;
@@ -71,9 +70,7 @@ li a:hover:not(.active) {
 	color: #86c8c9;
 	}
 	
-a:hover:not(.active){
-	color: #3d8889;
-	}
+
 
 ul{
 	text-align: center;
